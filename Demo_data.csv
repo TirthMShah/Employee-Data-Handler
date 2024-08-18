@@ -1,0 +1,61 @@
+Employee_ID,Name,Phone,Designation,Date_of_Joining,Password
+1001,John Doe,123-456-7890,Software Engineer,15-01-2020,1001John Doe
+1002,Jane Smith,987-654-3210,Project Manager,20-08-2019,1002Jane Smith
+1003,Michael Johnson,555-123-4567,Data Analyst,10-03-2021,1003Michael Johnson
+1004,Emily Brown,777-888-9999,UX Designer,05-05-2020,1004Emily Brown
+1005,David Wilson,111-222-3333,Software Developer,30-11-2018,1005David Wilson
+1006,Sarah Taylor,444-555-6666,HR Manager,25-07-2017,1006Sarah Taylor
+1007,Christopher Lee,999-888-7777,Network Engineer,28-02-2022,1007Christopher Lee
+1008,Amanda Clark,222-333-4444,Marketing Specialist,12-04-2019,1008Amanda Clark
+1009,Matthew Martinez,666-777-8888,Database Administrator,05-09-2021,1009Matthew Martinez
+1010,Laura Anderson,333-222-1111,UI Designer,15-03-2018,1010Laura Anderson
+1011,Alexander Garcia,888-999-0000,Systems Analyst,20-10-2020,1011Alexander Garcia
+1012,Olivia Hernandez,555-666-7777,Technical Writer,08-12-2019,1012Olivia Hernandez
+1013,Ethan Perez,111-333-5555,Software Engineer,30-05-2021,1013Ethan Perez
+1014,Isabella Gonzales,777-555-3333,Project Coordinator,18-07-2020,1014Isabella Gonzales
+1015,Noah Torres,222-444-6666,Quality Assurance Analyst,25-02-2019,1015Noah Torres
+1016,Mia King,666-111-4444,Product Manager,10-01-2022,1016Mia King
+1017,Aiden Stewart,999-777-5555,Data Scientist,05-11-2021,1017Aiden Stewart
+1018,Charlotte Rivera,333-666-9999,Web Developer,15-09-2018,1018Charlotte Rivera
+1019,James Evans,888-666-4444,Financial Analyst,20-06-2017,1019James Evans
+1020,Abigail Watson,444-333-2222,UI/UX Designer,30-04-2019,1020Abigail Watson
+1021,Benjamin Brooks,777-999-1111,Software Engineer,12-08-2020,1021Benjamin Brooks
+1022,Elizabeth Gray,111-222-3333,HR Generalist,25-01-2021,1022Elizabeth Gray
+1023,Michaela Cooper,222-444-6666,Project Manager,30-10-2019,1023Michaela Cooper
+1024,William Ward,555-333-1111,Database Developer,15-05-2018,1024William Ward
+1025,Victoria Murphy,888-777-6666,Graphic Designer,18-03-2022,1025Victoria Murphy
+1026,Daniel Peterson,999-888-7777,System Administrator,05-07-2021,1026Daniel Peterson
+1027,Grace Richardson,111-555-9999,Software Tester,20-12-2020,1027Grace Richardson
+1028,Aaron Barnes,333-444-5555,Network Administrator,08-08-2019,1028Aaron Barnes
+1029,Emma Cox,444-555-6666,UX/UI Designer,10-02-2018,1029Emma Cox
+1030,Christopher Jenkins,666-777-8888,Software Developer,15-04-2021,1030Christopher Jenkins
+1031,Lily Diaz,777-888-9999,Technical Support Specialist,30-06-2020,1031Lily Diaz
+1032,Luke Ward,888-999-0000,Product Owner,12-01-2019,1032Luke Ward
+1033,Chloe Bell,111-222-3333,Data Analyst,25-07-2017,1033Chloe Bell
+1034,Jacob Reed,222-333-4444,IT Support Technician,30-11-2018,1034Jacob Reed
+1035,Natalie Ross,333-444-5555,Quality Assurance Engineer,05-09-2020,1035Natalie Ross
+1036,Hailey Coleman,444-555-6666,Frontend Developer,20-10-2021,1036Hailey Coleman
+1037,Andrew Howard,555-666-7777,Software Engineer,08-12-2019,1037Andrew Howard
+1038,Ava Henderson,666-777-8888,Project Coordinator,18-07-2018,1038Ava Henderson
+1039,Samuel Sanders,777-888-9999,Data Scientist,25-02-2017,1039Samuel Sanders
+1040,Scarlett Long,888-999-0000,UX Designer,10-06-2019,1040Scarlett Long
+1041,Nathan Hughes,999-888-7777,Business Analyst,05-01-2021,1041Nathan Hughes
+1042,Madison Perry,111-222-3333,UI Developer,30-05-2018,1042Madison Perry
+1043,Elijah Butler,222-333-4444,Software Engineer,15-07-2020,1043Elijah Butler
+1044,Mia Simmons,333-444-5555,Database Administrator,2021-02-30,1044Mia Simmons
+1045,Logan Foster,444-555-6666,Web Developer,12-09-2019,1045Logan Foster
+1046,Hannah Price,555-666-7777,Technical Writer,25-04-2018,1046Hannah Price
+1047,William Ramirez,666-777-8888,Network Engineer,10-11-2017,1047William Ramirez
+1048,Addison Griffin,777-888-9999,Software Architect,20-08-2019,1048Addison Griffin
+1049,Amelia West,888-999-0000,UX/UI Designer,18-01-2018,1049Amelia West
+1050,Jack Bell,999-888-7777,Software Tester,05-06-2020,1050Jack Bell
+1051,Harper Cooper,111-222-3333,Frontend Developer,20-09-2021,1051Harper Cooper
+1052,Evelyn Cox,222-333-4444,Data Analyst,30-12-2018,1052Evelyn Cox
+1053,Owen Russell,333-444-5555,IT Support Specialist,15-05-2019,1053Owen Russell
+1054,Liam Hughes,444-555-6666,Software Engineer,30-10-2020,1054Liam Hughes
+1055,Avery Coleman,555-666-7777,Project Manager,15-07-2018,1055Avery Coleman
+1056,Sofia Richardson,666-777-8888,Database Developer,25-04-2017,1056Sofia Richardson
+1057,Carter Stewart,777-888-9999,UI/UX Designer,10-01-2019,1057Carter Stewart
+1058,Alexander Ross,888-999-0000,Software Developer,05-06-2018,1058Alexander Ross
+1059,Leah Howard,999-888-7777,Quality Assurance Engineer,20-09-2020,1059Leah Howard
+1060,Lucas Johnson,111-222-3333,Software Engineer,30-12-2021,1060Lucas Johnson
